@@ -1,1 +1,1 @@
-# test_binder_rstudio
+# RStudio environment for the course Metaanalysis for Biologists
